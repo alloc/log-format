@@ -1,0 +1,15 @@
+{
+  "name": "@alloc/log-format",
+  "version": "1.0.0",
+  "description": "Formatting console.log arguments",
+  "files": [
+    "*.js",
+    "*.d.ts"
+  ],
+  "dependencies": {
+    "pretty-format": "^26.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.0.5"
+  }
+}
